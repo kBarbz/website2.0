@@ -19,6 +19,7 @@ $('#dropdown-team').change(function() {
 		}
 		console.log("Received data");
 		totalData = data;
+		console.log(totalData);
 		switch(chosenTeam){
 			case "Bedford":
 			for (let i = 0; i < data.length; i++){
