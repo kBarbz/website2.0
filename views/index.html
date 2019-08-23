@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>Silly Statistics</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="style1.css">
+	</head>
+	<body>	
+		<div class="top d-flex">
+		</div>
+		
+		<h1 id='title'>Silly Statistics</h1>
+		<div class="main">
+		<div class="main1">
+			<div class="form-group">
+			<div class="d-flex justify-content-center">
+			<label class="control-label">Team</label>
+			</div>
+			<div class="d-flex justify-content-center">
+			<select id="dropdown-team" class="form-control" data-placeholder="..." data-tabindex="1">
+				<option class="pre-value1" value="empty" />	
+				<option value="Bayswater Morley 1">Bayswater Morley 1</option>
+				<option value="Bayswater Morley 2">Bayswater Morley 2</option>
+				<option value="Bayswater Morley 3">Bayswater Morley 3</option>
+				<option value="Bedford">Bedford</option>
+				<option value="Fremantle 1">Fremantle 1</option>
+				<option value="Fremantle 2">Fremantle 2</option>
+			</select>
+		</div>
+		</div>
+
+		<div class="form-group">
+			<div class="d-flex justify-content-center">
+			<label class="control-label">Name</label>
+			</div>
+			<div class="d-flex justify-content-center">
+			<select id="dropdown-name" class="teamName form-control" data-placeholder="..." data-tabindex="2">
+				
+			</select>
+		</div>
+	</div>
+		
+		<div class="form-group">	
+			<div class="d-flex justify-content-center">
+			<label class="control-label">Stat</label>
+			</div>
+			<div class="d-flex justify-content-center">
+			<select id="dropdown-stat" class="form-control" data-placeholder="..." data-tabindex="2">
+				<option class="pre-value2" value="empty"/>
+				<option value="Games Played">Games Played</option>
+				<option value="At Bats">At Bats</option>
+				<option value="Hits">Hits</option>
+				<option value="HRs">Homeruns</option>
+				<option value="RBIs">RBIs</option>
+				<option value="BBs">Walks</option>
+				<option value="Ks">Strikeouts</option>
+				<option value="Err">Errors</option>
+				<option value="Batting Avg">Batting Average</option>
+			</select>
+		</div>
+		</div>
+		<div class="button d-flex justify-content-center">
+		<input class="calculate" type="button" value="Calculate!" />
+		</div>
+	</div>
+
+	
+	<div id="restart-button" class='button d-flex justify-content-center'>
+		<div class='button d-flex justify-content-center'> 
+			<input id = 'restart' type= 'button' value= 'Try Again' /> 
+		</div>
+	</div>
+
+		<div class="bottom d-flex"></div>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js1.js"></script>
+	</body>
+</html>
