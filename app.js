@@ -7,7 +7,6 @@ const logger = require('morgan');
 const indexRouter = require('./routes/index');
 const usersRouter = require('./routes/users');
 
-let app = express();
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -143,7 +142,3 @@ app.get('/teamName', function(req,res){
 
     
 })
-
-app.listen(port, function(){
-	console.log("Server is running on port " + port);
-});
