@@ -32,7 +32,7 @@ app.use(express.static(__dirname + '/public'));
 }
 
 let bedford;
-jsonReader('./public/stats/bedfordJSON.json', (err, team) => {
+jsonReader('./public/images/bedfordJSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -41,7 +41,7 @@ jsonReader('./public/stats/bedfordJSON.json', (err, team) => {
 })
 
 let bm1;
-jsonReader('./public/stats/bayswater1JSON.json', (err, team) => {
+jsonReader('./public/images/bayswater1JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -50,7 +50,7 @@ jsonReader('./public/stats/bayswater1JSON.json', (err, team) => {
 })
 
 let bm2;
-jsonReader('./public/stats/bayswater2JSON.json', (err, team) => {
+jsonReader('./public/images/bayswater2JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -59,7 +59,7 @@ jsonReader('./public/stats/bayswater2JSON.json', (err, team) => {
 })
 
 let bm3;
-jsonReader('./public/stats/bayswater3JSON.json', (err, team) => {
+jsonReader('./public/images/bayswater3JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -68,7 +68,7 @@ jsonReader('./public/stats/bayswater3JSON.json', (err, team) => {
 })
 
 let f1;
-jsonReader('./public/stats/fremantle1JSON.json', (err, team) => {
+jsonReader('./public/images/fremantle1JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -77,7 +77,7 @@ jsonReader('./public/stats/fremantle1JSON.json', (err, team) => {
 })
 
 let f2;
-jsonReader('./public/stats/fremantle2JSON.json', (err, team) => {
+jsonReader('./public/images/fremantle2JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
