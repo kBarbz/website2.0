@@ -9,6 +9,7 @@ let statNum;
 
 $('#dropdown-team').change(function() {
 	chosenStat = $("#dropdown-stat :selected").val();
+	console.log(chosenStat);
 	$('.pre-value1').remove();
 	chosenTeam = $("#dropdown-team :selected").text() 	// Variable equals what was selected
 	$('.currentTeam').remove()		// Remove the current options
@@ -79,7 +80,9 @@ $('.calculate').click(function() {
 
 	if (chosenStat = "empty") {
 		alert("Whoops!  Choose a stat")
-	} 
+	} else {
+
+
 
 	if (chosenObj[chosenStat] != "") {
 		statNum = chosenObj[chosenStat];
@@ -93,8 +96,8 @@ $('.calculate').click(function() {
 	$detached = $('.main1').detach();
 	$('.main').prepend(main2);
 
+}
 	})
-
 
 // button to go back to original layout
 $('#restart-button').click(function() {	
