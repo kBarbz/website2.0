@@ -80,7 +80,7 @@ $('.calculate').click(function() {
 
 	if (chosenStat = "empty") {
 		alert("Whoops!  Choose a stat")
-	} else {
+	} 
 
 
 
@@ -96,7 +96,7 @@ $('.calculate').click(function() {
 	$detached = $('.main1').detach();
 	$('.main').prepend(main2);
 
-}
+
 	})
 
 // button to go back to original layout
