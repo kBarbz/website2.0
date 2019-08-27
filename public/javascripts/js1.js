@@ -107,7 +107,7 @@ $('.calculate').click(function() {
 
 	
 	function filterByAtBats(item) {
-  	if (item["At Bats"] == statNum) {
+  	if (item["At Bats"] == chosenObj["At Bats"]) {
     return true;
   	} 
   	return false; 
