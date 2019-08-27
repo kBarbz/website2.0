@@ -107,7 +107,6 @@ $('.calculate').click(function() {
 
 	let main2 = '<div class="main2"><div class="d-flex justify-content-center"><h2 id="statistic">' + statPrint + '</h2></div><div class="d-flex justify-content-center"><span id="number">' + statNum + '</span></div></div>';
 	$('#title').text(chosenName);
-	$('#restart-button').append($restartButton);
 	$detached = $('.main1').detach();
 	$('.main').prepend(main2);
 
@@ -121,8 +120,10 @@ $('.calculate').click(function() {
 
 	let baseballPlayers = baseball.filter(filterByAtBats);
 	let rand = getRand(0, baseballPlayers.length);
-	console.log(baseballPlayers[rand]["Name"])
 
+	let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, ' + baseballPlayers[rand]["Name"] + ' had</p></div><div class="d-flex justify-content-center"><span id="number">' + baseballPlayers[rand][chosenStat] + '</span></div></div>'
+	$('.main').append(baseballFact);
+	$('#restart-button').append($restartButton);
 
 
 
@@ -134,6 +135,7 @@ $('#restart-button').click(function() {
 	$('.main').prepend($detached);
 	$('#restart').detach();
 	$main2 = $('.main2').detach();
+	$baseballPlayers = $('.baseballPlayers').detach();
 
 });
 
