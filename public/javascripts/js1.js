@@ -8,9 +8,7 @@ let totalData;
 let statNum;
 
 $('#dropdown-team').change(function() {
-	chosenStat = $("#dropdown-stat :selected").val();
-	console.log(chosenStat);
-	$('.pre-value1').remove();
+		$('.pre-value1').remove();
 	chosenTeam = $("#dropdown-team :selected").text() 	// Variable equals what was selected
 	$('.currentTeam').remove()		// Remove the current options
 
@@ -19,6 +17,8 @@ $('#dropdown-team').change(function() {
 			console.log("No data received");	
 		}
 		console.log("Received data");
+		chosenStat = $("#dropdown-stat :selected").val();
+		console.log(chosenStat);
 		totalData = data;
 		console.log(totalData);
 		switch(chosenTeam){
