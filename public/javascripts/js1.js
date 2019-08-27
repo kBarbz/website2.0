@@ -7,10 +7,8 @@ let $restartButton = $('#restart').detach();
 let totalData;
 let statNum;
 
-
 $('#dropdown-team').change(function() {
-chosenStat = $("#dropdown-stat :selected").val();
-console.log(chosenStat);
+
 	$('.pre-value1').remove();
 	chosenTeam = $("#dropdown-team :selected").text() 	// Variable equals what was selected
 	$('.currentTeam').remove()		// Remove the current options
@@ -81,7 +79,9 @@ $('.calculate').click(function() {
 
 	if (chosenStat = "empty") {
 		alert("Whoops!  Choose a stat")
-	} else if (chosenObj[chosenStat] != "") {
+	} 
+
+	if (chosenObj[chosenStat] != "") {
 		statNum = chosenObj[chosenStat];
 	} else {
 		statNum = 0;
