@@ -19,7 +19,6 @@ const fs = require('fs');
 
 let baseball;
 router.get('/', function(req, res, next) {
-res.sendFile('index.html', { root: __dirname });
 jsonReader('D:/home/site/wwwroot/public/images/baseballJSON.json', (err, data ) => {
     if (err) {
         console.log(err)
@@ -29,6 +28,5 @@ jsonReader('D:/home/site/wwwroot/public/images/baseballJSON.json', (err, data ) 
 })
 res.send(baseball);
 });
-
 
 module.exports = router;
