@@ -18,7 +18,7 @@ const fs = require('fs');
 }
 
 let bedford;
-jsonReader('./public/images/bedfordJSON.json', (err, team) => {
+jsonReader('D:/home/site/wwwroot/public/images/bedfordJSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
