@@ -8,6 +8,12 @@ let totalData;
 let statNum;
 let baseball;
 
+function getRand(min, max) {
+   min = Math.ceil(min);
+  max = Math.floor(max);
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
 $.get("/baseballStats", function(data) {
 		if(!data){
 			console.log("No data received");	
@@ -114,7 +120,9 @@ $('.calculate').click(function() {
 	}
 
 	let baseballPlayers = baseball.filter(filterByAtBats);
-	console.log(baseballPlayers);
+	let rand = getRand(0, baseballPlayers.length);
+	console.log(baseballPlayers[rand]["Name"])
+
 
 
 
