@@ -7,11 +7,10 @@ let $restartButton = $('#restart').detach();
 let totalData;
 let statNum;
 
-chosenStat = $("#dropdown-stat :selected").val();
-console.log(chosenStat);
 
 $('#dropdown-team').change(function() {
-
+chosenStat = $("#dropdown-stat :selected").val();
+console.log(chosenStat);
 	$('.pre-value1').remove();
 	chosenTeam = $("#dropdown-team :selected").text() 	// Variable equals what was selected
 	$('.currentTeam').remove()		// Remove the current options
