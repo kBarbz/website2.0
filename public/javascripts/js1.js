@@ -121,6 +121,7 @@ $('.calculate').click(function() {
 	let baseballPlayers = baseball.filter(filterByAtBats);
 	let rand = getRand(0, baseballPlayers.length);
 
+console.log(baseballPlayers[rand])
 	let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, ' + baseballPlayers[rand]["Name"] + ' had</p></div><div class="d-flex justify-content-center"><span id="number">' + baseballPlayers[rand][chosenStat] + '</span></div></div>'
 	$('.main').append(baseballFact);
 	$('#restart-button').append($restartButton);
