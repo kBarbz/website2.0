@@ -8,13 +8,6 @@ let totalData;
 let statNum;
 let baseball;
 
-$.get("/baseballStats", chosenTeam, function(data) {
-		if(!data){
-			console.log("No data received");	
-		}
-		baseball = data;
-		console.log(baseball[0]);
-	});
 
 $('#dropdown-team').change(function() {
 		$('.pre-value1').remove();
@@ -98,6 +91,14 @@ $('.calculate').click(function() {
 	$('#restart-button').append($restartButton);
 	$detached = $('.main1').detach();
 	$('.main').prepend(main2);
+
+	$.get("/baseballStats", function(data) {
+		if(!data){
+			console.log("No data received");	
+		}
+		baseball = data;
+		console.log(baseball[0]);
+	});
 
 
 	})
