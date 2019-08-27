@@ -8,7 +8,7 @@ let totalData;
 let statNum;
 
 $('#dropdown-team').change(function() {
-
+	chosenStat = $("#dropdown-stat :selected").val();
 	$('.pre-value1').remove();
 	chosenTeam = $("#dropdown-team :selected").text() 	// Variable equals what was selected
 	$('.currentTeam').remove()		// Remove the current options
@@ -62,7 +62,7 @@ $('#dropdown-name').change(function() {
 
 $('#dropdown-stat').change(function() {
 	$('.pre-value2').remove();
-	chosenStat = $("#dropdown-stat :selected").text();
+	chosenStat = $("#dropdown-stat :selected").val();
 	
 });
 
