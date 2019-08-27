@@ -66,7 +66,7 @@ $('#dropdown-stat').change(function() {
 	
 });
 
-
+// creates new layout with statistic shown
 $('.calculate').click(function() {
 
 	chosenTeam = $("#dropdown-team :selected").text();
@@ -76,8 +76,10 @@ $('.calculate').click(function() {
 	
 
 	let chosenObj = totalData.find(o => o['Name'] == chosenName);
-	
-	if (chosenObj[chosenStat] != "") {
+
+	if (chosenStat = "empty") {
+		alert("Whoops!  Choose a stat")
+	} else if (chosenObj[chosenStat] != "") {
 		statNum = chosenObj[chosenStat];
 	} else {
 		statNum = 0;
@@ -92,6 +94,7 @@ $('.calculate').click(function() {
 	})
 
 
+// button to go back to original layout
 $('#restart-button').click(function() {	
 	$('#title').text('Silly Statistics');
 	$('.main').prepend($detached);
