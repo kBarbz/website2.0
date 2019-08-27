@@ -17,32 +17,6 @@ const fs = require('fs');
     })
 }
 
-router.get('/', function(req,res){
-    console.log('GET request received for teamName');
-    let whichTeam = Object.keys(req.query)
-    console.log(whichTeam[0])
-    switch(whichTeam[0]) {
-        case 'Bedford':
-        res.send(bedford);
-        break;
-        case 'Bayswater Morley 1':
-        res.send(bm1);
-        break;
-        case 'Bayswater Morley 2':
-        res.send(bm2);
-        break;
-        case 'Bayswater Morley 3':
-        res.send(bm3);
-        break;
-        case 'Fremantle 1':
-        res.send(f1);
-        break;
-        case 'Fremantle 2':
-        res.send(f2); 
-        break;
-    }
-})
-
 let bedford;
 jsonReader('/public/images/bedfordJSON.json', (err, team) => {
     if (err) {
@@ -97,7 +71,31 @@ jsonReader('/public/images/fremantle2JSON.json', (err, team) => {
     f2 = team;
 })
 
-
+router.get('/', function(req,res){
+    console.log('GET request received for teamName');
+    let whichTeam = Object.keys(req.query)
+    console.log(whichTeam[0])
+    switch(whichTeam[0]) {
+        case 'Bedford':
+        res.send(bedford);
+        break;
+        case 'Bayswater Morley 1':
+        res.send(bm1);
+        break;
+        case 'Bayswater Morley 2':
+        res.send(bm2);
+        break;
+        case 'Bayswater Morley 3':
+        res.send(bm3);
+        break;
+        case 'Fremantle 1':
+        res.send(f1);
+        break;
+        case 'Fremantle 2':
+        res.send(f2); 
+        break;
+    }
+})
 
 
     
