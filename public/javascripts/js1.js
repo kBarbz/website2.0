@@ -8,11 +8,26 @@ let totalData;
 let statNum;
 let baseball;
 
+$.get("/baseballStats", function(data) {
+		if(!data){
+			console.log("No data received");	
+		}
+		baseball = data;
+		console.log(baseball[0]);
+	});
 
 $('#dropdown-team').change(function() {
 		$('.pre-value1').remove();
 	chosenTeam = $("#dropdown-team :selected").text() 	// Variable equals what was selected
 	$('.currentTeam').remove()		// Remove the current options
+
+	$.get("/baseballStats", function(data) {
+		if(!data){
+			console.log("No data received");	
+		}
+		baseball = data;
+		console.log(baseball[0]);
+	});
 
 	$.get("/teamName", chosenTeam, function(data) {
 		if(!data){
@@ -91,14 +106,6 @@ $('.calculate').click(function() {
 	$('#restart-button').append($restartButton);
 	$detached = $('.main1').detach();
 	$('.main').prepend(main2);
-
-	$.get("/baseballStats", function(data) {
-		if(!data){
-			console.log("No data received");	
-		}
-		baseball = data;
-		console.log(baseball[0]);
-	});
 
 
 	})
