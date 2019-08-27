@@ -27,7 +27,7 @@ h1{
 }
 
 .button{
-	padding-top: 20px;
+	padding-top: 10px;
 }
 
 #number{
@@ -47,4 +47,8 @@ h1{
  
  #bold {
   font-weight:bold;
+}
+
+#compare-text {
+  padding-top: 5px;
 }
