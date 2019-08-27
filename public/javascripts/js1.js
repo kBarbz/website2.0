@@ -14,7 +14,7 @@ $.get("/baseballStats", chosenTeam, function(data) {
 		}
 		baseball = data;
 		console.log(baseball[0]);
-	}):
+	});
 
 $('#dropdown-team').change(function() {
 		$('.pre-value1').remove();
