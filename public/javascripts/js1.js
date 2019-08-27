@@ -8,6 +8,7 @@ let totalData;
 let statNum;
 
 chosenStat = $("#dropdown-stat :selected").val();
+console.log(chosenStat);
 
 $('#dropdown-team').change(function() {
 
