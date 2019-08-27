@@ -7,6 +7,8 @@ let $restartButton = $('#restart').detach();
 let totalData;
 let statNum;
 
+chosenStat = $("#dropdown-stat :selected").val();
+
 $('#dropdown-team').change(function() {
 
 	$('.pre-value1').remove();
