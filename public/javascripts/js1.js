@@ -135,7 +135,7 @@ $('#restart-button').click(function() {
 	$('.main').prepend($detached);
 	$('#restart').detach();
 	$main2 = $('.main2').detach();
-	$baseballPlayers = $('.baseballPlayers').detach();
+	$baseballFact = $('.baseballFact').detach();
 
 });
 
