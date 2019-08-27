@@ -13,8 +13,7 @@ $.get("/baseballStats", function(data) {
 			console.log("No data received");	
 		}
 		baseball = data;
-		console.log(baseball[0]);
-	});
+		});
 
 $('#dropdown-team').change(function() {
 		$('.pre-value1').remove();
@@ -91,9 +90,8 @@ $('.calculate').click(function() {
 	chosenName = $("#dropdown-name :selected").text();
 	chosenStat = $("#dropdown-stat :selected").val();
 	statPrint =  $("#dropdown-stat :selected").text();
-	
 
-	let chosenObj = totalData.find(o => o['Name'] == chosenName);
+		let chosenObj = totalData.find(o => o['Name'] == chosenName);
 
 	if (chosenObj[chosenStat] != "") {
 		statNum = chosenObj[chosenStat];
@@ -106,6 +104,18 @@ $('.calculate').click(function() {
 	$('#restart-button').append($restartButton);
 	$detached = $('.main1').detach();
 	$('.main').prepend(main2);
+
+	
+	function filterByAtBats(item) {
+  	if (item["At Bats"] == statNum) {
+    return true;
+  	} 
+  	return false; 
+	}
+
+	let baseballPlayers = baseball.filter(filterByAtBats);
+	console.log(baseballPlayers);
+
 
 
 	})
