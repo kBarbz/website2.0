@@ -78,12 +78,6 @@ $('.calculate').click(function() {
 
 	let chosenObj = totalData.find(o => o['Name'] == chosenName);
 
-	if (chosenStat = "empty") {
-		alert("Whoops!  Choose a stat")
-	} 
-
-
-
 	if (chosenObj[chosenStat] != "") {
 		statNum = chosenObj[chosenStat];
 	} else {
