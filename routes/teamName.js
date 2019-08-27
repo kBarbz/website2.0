@@ -71,15 +71,6 @@ jsonReader('D:/home/site/wwwroot/public/images/fremantle2JSON.json', (err, team)
     f2 = team;
 })
 
-let baseball;
-jsonReader('D:/home/site/wwwroot/public/images/fremantle2JSON.json', (err, team) => {
-    if (err) {
-        console.log(err)
-        return
-    }
-    f2 = team;
-})
-
 
 router.get('/', function(req,res){
     console.log('GET request received for teamName');
@@ -106,9 +97,5 @@ router.get('/', function(req,res){
         break;
     }
 })
-
-
-    
-
 
 module.exports = router;

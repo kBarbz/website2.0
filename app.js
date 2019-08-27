@@ -7,6 +7,7 @@ const logger = require('morgan');
 const indexRouter = require('./routes/index');
 const usersRouter = require('./routes/users');
 const teamName = require('./routes/teamName');
+const baseballStats = require('./routes/baseballStats');
 
 
 let app = express();
@@ -29,6 +30,8 @@ app.use('public/images', express.static(path.join(__dirname, 'public/images')));
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/teamName', teamName)
+app.use('/baseballStats', baseballStats)
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

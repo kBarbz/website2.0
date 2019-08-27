@@ -6,11 +6,15 @@ let statPrint;
 let $restartButton = $('#restart').detach();
 let totalData;
 let statNum;
+let baseball;
 
 $.get("/baseballStats", chosenTeam, function(data) {
 		if(!data){
 			console.log("No data received");	
 		}
+		baseball = data;
+		console.log(baseball[0]);
+	}):
 
 $('#dropdown-team').change(function() {
 		$('.pre-value1').remove();
