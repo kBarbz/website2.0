@@ -45,32 +45,32 @@ $('#dropdown-team').change(function() {
 		console.log(totalData);
 		switch(chosenTeam){
 			case "Bedford":
-			for (let i = 0; i < data.length; i++){
+			for (let i = 0; i < data.length-1; i++){
 			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
 			}
 			break;
 			case "Bayswater Morley 1":
-			for (let i = 0; i < data.length; i++){
+			for (let i = 0; i < data.length-1; i++){
 			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
 			}
 			break;
 			case "Bayswater Morley 2":
-			for (let i = 0; i < data.length; i++){
+			for (let i = 0; i < data.length-1; i++){
 			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
 			}
 			break;
 			case "Bayswater Morley 3":
-			for (let i = 0; i < data.length; i++){
+			for (let i = 0; i < data.length-1; i++){
 			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
 			}
 			break;
 			case "Fremantle 1":
-			for (let i = 0; i < data.length; i++){
+			for (let i = 0; i < data.length-1; i++){
 			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
 			}
 			break;
 			case "Fremantle 2":
-			for (let i = 0; i < data.length; i++){
+			for (let i = 0; i < data.length-1; i++){
 			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
 			}
 			break;
