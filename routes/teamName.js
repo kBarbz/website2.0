@@ -70,6 +70,14 @@ jsonReader('D:/home/site/wwwroot/public/images/fremantle2JSON.json', (err, team)
     }
     f2 = team;
 })
+let gero;
+jsonReader('D:/home/site/wwwroot/public/images/geraldtonJSON.json', (err, team) => {
+    if (err) {
+        console.log(err)
+        return
+    }
+    gero = team;
+})
 
 
 router.get('/', function(req,res){
@@ -94,6 +102,9 @@ router.get('/', function(req,res){
         break;
         case 'Fremantle 2':
         res.send(f2); 
+        break;
+        case 'Geraldton':
+        res.send(gero); 
         break;
     }
 })

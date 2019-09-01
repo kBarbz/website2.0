@@ -74,6 +74,11 @@ $('#dropdown-team').change(function() {
 			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
 			}
 			break;
+			case "Geraldton":
+			for (let i = 0; i < data.length-1; i++){
+			$('.teamName').append("<option class='currentTeam' value='" + data[i]['Name'] + "'>" + data[i]['Name'] + "</option>")	
+			}
+			break;
 		}
 		})
 });
