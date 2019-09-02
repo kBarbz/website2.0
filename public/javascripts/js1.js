@@ -94,6 +94,15 @@ $('#dropdown-stat').change(function() {
 	
 });
 
+$('input[type="checkbox"]').click(function(){
+            if($(this).prop("checked") == true){
+                alert("Checkbox is checked.");
+            }
+            else if($(this).prop("checked") == false){
+                alert("Checkbox is unchecked.");
+            }
+        });
+
 // creates new layout with statistic shown
 $('.calculate').click(function() {
 
@@ -139,7 +148,7 @@ $('.calculate').click(function() {
 	let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[rand]["Name"] + '</span> had</p></div><div class="d-flex justify-content-center"><span id="number">' + baseballPlayers[rand][chosenStat] + '</span></div></div>'
 	let checked = $('input[type=checkbox]').prop('checked')
 	console.log(checked)
-	
+
 	if (checked) {
 		baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[westyRand]["Name"] + '</span>also had</p></div><div class="d-flex justify-content-center"><span id="number">' + westyPlayer[rand][chosenStat] + '</span></div></div>'
 	} 
