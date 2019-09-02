@@ -137,11 +137,13 @@ $('.calculate').click(function() {
 	let westyRand = getRand(0, westyPlayer.length);
 
 	let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[rand]["Name"] + '</span> had</p></div><div class="d-flex justify-content-center"><span id="number">' + baseballPlayers[rand][chosenStat] + '</span></div></div>'
-
-	if ($('input[type=checkbox]').prop('checked')) {
+	let checked = $('input[type=checkbox]').prop('checked')
+	console.log(checked)
+	
+	if (checked) {
 		baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[westyRand]["Name"] + '</span>also had</p></div><div class="d-flex justify-content-center"><span id="number">' + westyPlayer[rand][chosenStat] + '</span></div></div>'
 	} 
-	
+
 	$('#baseballFact').append(baseballFact);
 	$('#restart-button').append($restartButton);
 
