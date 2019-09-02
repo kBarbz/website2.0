@@ -148,6 +148,10 @@ $('.calculate').click(function() {
 	let westyPlayer = baseball.filter(filterByChosen);
 	let westyRand = getRand(0, westyPlayer.length);
 
+	if(westyPlayer.length == 0) {
+		$('#restart-button').append($restartButton);
+	}
+
 	let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[rand]["Name"] + '</span> had</p></div><div class="d-flex justify-content-center"><span id="number">' + baseballPlayers[rand][chosenStat] + '</span></div></div>'
 	
 	console.log(checked)

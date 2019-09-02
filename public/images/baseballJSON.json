@@ -53,7 +53,7 @@
    "RBIs": 4,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Aaron Judge",
@@ -109,7 +109,7 @@
    "RBIs": 4,
    "Ks": 4,
    "BBs": 1,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Jose Abreu",
@@ -123,7 +123,7 @@
    "RBIs": 3,
    "Ks": 5,
    "BBs": 1,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Nick Senzel",
@@ -137,7 +137,7 @@
    "RBIs": 1,
    "Ks": 3,
    "BBs": 0,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Mookie Betts",
@@ -165,7 +165,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Charlie Blackmon",
@@ -179,7 +179,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Javier Baez",
@@ -571,7 +571,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Max Muncy",
@@ -585,7 +585,7 @@
    "RBIs": 4,
    "Ks": 2,
    "BBs": 1,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Albert Pujols",
@@ -1229,7 +1229,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 2,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Corey Seager",
@@ -1243,7 +1243,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Christian Vazquez",
@@ -1271,7 +1271,7 @@
    "RBIs": 5,
    "Ks": 2,
    "BBs": 3,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Ketel Marte",
@@ -1285,7 +1285,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 4,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Yordan Alvarez",
@@ -1299,7 +1299,7 @@
    "RBIs": 3,
    "Ks": 1,
    "BBs": 2,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Eugenio Suarez",
@@ -1313,7 +1313,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 4,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Francisco Lindor",
@@ -1327,7 +1327,7 @@
    "RBIs": 5,
    "Ks": 0,
    "BBs": 2,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Teoscar Hernandez",
@@ -1341,7 +1341,7 @@
    "RBIs": 1,
    "Ks": 4,
    "BBs": 0,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Jeff McNeil",
@@ -1355,7 +1355,7 @@
    "RBIs": 3,
    "Ks": 1,
    "BBs": 2,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Luis Arraez",
@@ -1369,7 +1369,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 2,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Michael Brantley",
@@ -1383,7 +1383,7 @@
    "RBIs": 4,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.3
+   "Batting Avg": 0.300
  },
  {
    "Name": "Kyle Seager",
@@ -1397,7 +1397,7 @@
    "RBIs": 1,
    "Ks": 2,
    "BBs": 2,
-   "Batting Avg": 0.3
+   "Batting Avg": 0.300
  },
  {
    "Name": "Max Kepler",
@@ -1411,7 +1411,7 @@
    "RBIs": 2,
    "Ks": 2,
    "BBs": 3,
-   "Batting Avg": 0.3
+   "Batting Avg": 0.300
  },
  {
    "Name": "Rougned Odor",
@@ -1425,7 +1425,7 @@
    "RBIs": 2,
    "Ks": 1,
    "BBs": 2,
-   "Batting Avg": 0.3
+   "Batting Avg": 0.300
  },
  {
    "Name": "Adam Duvall",
@@ -1439,7 +1439,7 @@
    "RBIs": 1,
    "Ks": 6,
    "BBs": 2,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Kole Calhoun",
@@ -1453,7 +1453,7 @@
    "RBIs": 1,
    "Ks": 4,
    "BBs": 1,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Scott Kingery",
@@ -1467,7 +1467,7 @@
    "RBIs": 1,
    "Ks": 3,
    "BBs": 0,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Alex Gordon",
@@ -1481,7 +1481,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 1,
-   "Batting Avg": 0.1
+   "Batting Avg": 0.100
  },
  {
    "Name": "Joc Pederson",
@@ -1495,7 +1495,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0.1
+   "Batting Avg": 0.100
  },
  {
    "Name": "Bubbsa Starling",
@@ -1509,7 +1509,7 @@
    "RBIs": 1,
    "Ks": 5,
    "BBs": 0,
-   "Batting Avg": 0.1
+   "Batting Avg": 0.100
  },
  {
    "Name": "Mike Yastrzemski",
@@ -1523,7 +1523,7 @@
    "RBIs": 2,
    "Ks": 2,
    "BBs": 2,
-   "Batting Avg": 0.1
+   "Batting Avg": 0.100
  },
  {
    "Name": "Josh VanMeter",
@@ -1537,7 +1537,7 @@
    "RBIs": 1,
    "Ks": 4,
    "BBs": 2,
-   "Batting Avg": 0.1
+   "Batting Avg": 0.100
  },
  {
    "Name": "Adam Haseley",
@@ -1551,7 +1551,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 1,
-   "Batting Avg": 0.1
+   "Batting Avg": 0.100
  },
  {
    "Name": "Renato Nunez",
@@ -1565,7 +1565,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 2,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jose Iglesias",
@@ -1999,7 +1999,7 @@
    "RBIs": 1,
    "Ks": 4,
    "BBs": 3,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Austin Nola",
@@ -2013,7 +2013,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Freddy Galvis",
@@ -2041,7 +2041,7 @@
    "RBIs": 3,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Marcus Semien",
@@ -2055,7 +2055,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 2,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Brandon Dixon",
@@ -2069,7 +2069,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 2,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Jake Marisnick",
@@ -2447,7 +2447,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Danny Jansen",
@@ -2461,7 +2461,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jake Rogers",
@@ -2475,7 +2475,7 @@
    "RBIs": 0,
    "Ks": 4,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Avisail Garcia",
@@ -2853,7 +2853,7 @@
    "RBIs": 0,
    "Ks": 4,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Adeiny Hechavarria",
@@ -2867,7 +2867,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Carson Kelly",
@@ -2909,7 +2909,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 3,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jose Osuna",
@@ -2951,7 +2951,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Christian Walker",
@@ -2965,7 +2965,7 @@
    "RBIs": 1,
    "Ks": 2,
    "BBs": 4,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Ian Desmond",
@@ -3147,7 +3147,7 @@
    "RBIs": 0,
    "Ks": 3,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Ehire Adrianza",
@@ -3175,7 +3175,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 2,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Omar Narvaez",
@@ -3189,7 +3189,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Phillip Ervin",
@@ -3203,7 +3203,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Adam Engel",
@@ -3217,7 +3217,7 @@
    "RBIs": 0,
    "Ks": 4,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Garrett Cooper",
@@ -3231,7 +3231,7 @@
    "RBIs": 1,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Trent Grisham",
@@ -3245,7 +3245,7 @@
    "RBIs": 1,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0.6
+   "Batting Avg": 0.600
  },
  {
    "Name": "Ji-Man Choi",
@@ -3259,7 +3259,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Donovan Solano",
@@ -3273,7 +3273,7 @@
    "RBIs": 2,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Richie Martin Jr.",
@@ -3287,7 +3287,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.4
+   "Batting Avg": 0.400
  },
  {
    "Name": "Juan Lagares",
@@ -3301,7 +3301,7 @@
    "RBIs": 1,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Matt Carpenter",
@@ -3315,7 +3315,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Gordon Beckham",
@@ -3329,7 +3329,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Delino DeShields",
@@ -3357,7 +3357,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Victor Caratini",
@@ -3371,7 +3371,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0.2
+   "Batting Avg": 0.200
  },
  {
    "Name": "Dexter Fowler",
@@ -3385,7 +3385,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Austin Romine",
@@ -3399,7 +3399,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 2,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kevin Kiermaier",
@@ -3413,7 +3413,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Victor Robles",
@@ -3427,7 +3427,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kyle Schwarber",
@@ -3441,7 +3441,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 4,
-   "Batting Avg": 0.75
+   "Batting Avg": 0.750
  },
  {
    "Name": "Michael Brosseau",
@@ -3455,7 +3455,7 @@
    "RBIs": 2,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.75
+   "Batting Avg": 0.750
  },
  {
    "Name": "Alex Avila",
@@ -3469,7 +3469,7 @@
    "RBIs": 3,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Kurt Suzuki",
@@ -3483,7 +3483,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Jesus Aguilar",
@@ -3497,7 +3497,7 @@
    "RBIs": 2,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Noah Syndergaard",
@@ -3511,7 +3511,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Kevin Pillar",
@@ -3525,7 +3525,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Tony Kemp",
@@ -3539,7 +3539,7 @@
    "RBIs": 1,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Andrew Knapp",
@@ -3553,7 +3553,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Garrett Hampson",
@@ -3567,7 +3567,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Matt Wieters",
@@ -3833,7 +3833,7 @@
    "RBIs": 0,
    "Ks": 4,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Curtis Granderson",
@@ -3847,7 +3847,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brock Holt",
@@ -3861,7 +3861,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 2,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Max Stassi",
@@ -3875,7 +3875,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tim Locastro",
@@ -3889,7 +3889,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Mitch Garver",
@@ -3903,7 +3903,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Pablo Reyes",
@@ -3917,7 +3917,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Eric Sogard",
@@ -4127,7 +4127,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Robinson Chirinos",
@@ -4141,7 +4141,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sandy Leon",
@@ -4169,7 +4169,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Patrick Corbin",
@@ -4183,7 +4183,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Andrelton Simmons",
@@ -4197,7 +4197,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Yairo Munoz",
@@ -4211,7 +4211,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Shaun Anderson",
@@ -4225,7 +4225,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Madison Bumgarner",
@@ -4239,7 +4239,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Jason Vargas",
@@ -4253,7 +4253,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Chris Herrmann",
@@ -4267,7 +4267,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 2,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Jose Quintana",
@@ -4281,7 +4281,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Kevin Plawecki",
@@ -4295,7 +4295,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Dylan Moore",
@@ -4309,7 +4309,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Alex Young",
@@ -4323,7 +4323,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Chris Paddack",
@@ -4337,7 +4337,7 @@
    "RBIs": 1,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0.5
+   "Batting Avg": 0.500
  },
  {
    "Name": "Ivan Nova",
@@ -4351,7 +4351,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Yonder Alonso",
@@ -4365,7 +4365,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Ross Detwiler",
@@ -4379,7 +4379,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matt Joyce",
@@ -4393,7 +4393,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Gio Gonzalez",
@@ -4407,7 +4407,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Stephen Strasburg",
@@ -4421,7 +4421,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Billy Hamilton",
@@ -4435,7 +4435,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Derek Dietrich",
@@ -4449,7 +4449,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 2,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Robbsie Ray",
@@ -4477,7 +4477,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Joe Ross",
@@ -4491,7 +4491,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Austin Hedges",
@@ -4505,7 +4505,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Marcus Stroman",
@@ -4519,7 +4519,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jon Gray",
@@ -4533,7 +4533,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Aaron Nola",
@@ -4547,7 +4547,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Reynaldo Lopez",
@@ -4561,7 +4561,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Ryan O'Hearn",
@@ -4575,7 +4575,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Taylor Clarke",
@@ -4589,7 +4589,7 @@
    "RBIs": 0,
    "Ks": 2,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Peter Lambert",
@@ -4603,7 +4603,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Eric Lauer",
@@ -4617,7 +4617,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Walker Buehler",
@@ -4631,7 +4631,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Dustin May",
@@ -4645,7 +4645,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Zach Davies",
@@ -4659,7 +4659,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 1
+   "Batting Avg": 1.000
  },
  {
    "Name": "Chad Pinder",
@@ -4673,7 +4673,7 @@
    "RBIs": 3,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 1
+   "Batting Avg": 1.000
  },
  {
    "Name": "Lane Thomas",
@@ -4687,7 +4687,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 1
+   "Batting Avg": 1.000
  },
  {
    "Name": "Tyler Chatwood",
@@ -4701,7 +4701,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Cole Hamels",
@@ -4715,7 +4715,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Julio Teheran",
@@ -4729,7 +4729,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Craig Stammen",
@@ -4743,7 +4743,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Drew Smyly",
@@ -4757,7 +4757,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Parker Markel",
@@ -4771,7 +4771,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Trevor Bauer",
@@ -4785,7 +4785,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sonny Gray",
@@ -4799,7 +4799,7 @@
    "RBIs": 1,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Joe Musgrove",
@@ -4813,7 +4813,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Yu Darvish",
@@ -4827,7 +4827,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Steven Matz",
@@ -4841,7 +4841,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Erik Gonzalez",
@@ -4855,7 +4855,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Zach Eflin",
@@ -4869,7 +4869,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Alex Wood",
@@ -4883,7 +4883,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kevin Gausman",
@@ -4897,7 +4897,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Zack Godley",
@@ -4911,7 +4911,7 @@
    "RBIs": 1,
    "Ks": 1,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Trevor Williams",
@@ -4925,7 +4925,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tyler Beede",
@@ -4939,7 +4939,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Raisel Iglesias",
@@ -4953,7 +4953,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kenta Maeda",
@@ -4967,7 +4967,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Cal Quantrill",
@@ -4981,7 +4981,7 @@
    "RBIs": 0,
    "Ks": 1,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Fernando Rodney",
@@ -4995,7 +4995,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Adam Ottavino",
@@ -5009,7 +5009,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Oliver Perez",
@@ -5023,7 +5023,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Adam Wainwright",
@@ -5037,7 +5037,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Lance Lynn",
@@ -5051,7 +5051,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Luis Avilan",
@@ -5065,7 +5065,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tony Watson",
@@ -5079,7 +5079,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Will Harris",
@@ -5093,7 +5093,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Francisco Liriano",
@@ -5107,7 +5107,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "T.J. McFarland",
@@ -5121,7 +5121,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Zack Britton",
@@ -5135,7 +5135,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Joe Smith",
@@ -5149,7 +5149,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Liam Hendriks",
@@ -5163,7 +5163,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matt Magill",
@@ -5177,7 +5177,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Yusmeiro Petit",
@@ -5191,7 +5191,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Mark Melancon",
@@ -5205,7 +5205,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matt Albers",
@@ -5219,7 +5219,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Justin Wilson",
@@ -5233,7 +5233,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jordan Zimmermann",
@@ -5261,7 +5261,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jeurys Familia",
@@ -5275,7 +5275,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Blake Parker",
@@ -5289,7 +5289,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Wilmer Font",
@@ -5317,7 +5317,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Pedro Baez",
@@ -5331,7 +5331,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Junior Guerra",
@@ -5345,7 +5345,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Trevor Cahill",
@@ -5359,7 +5359,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "David Phelps",
@@ -5373,7 +5373,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Trevor May",
@@ -5387,7 +5387,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jose Cisnero",
@@ -5401,7 +5401,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Steve Cishek",
@@ -5415,7 +5415,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Blaine Hardy",
@@ -5429,7 +5429,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Craig Kimbrel",
@@ -5443,7 +5443,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Alex Colome",
@@ -5457,7 +5457,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Martin Perez",
@@ -5471,7 +5471,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Joakim Soria",
@@ -5485,7 +5485,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Luis Garcia",
@@ -5499,7 +5499,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Daniel Hudson",
@@ -5513,7 +5513,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "J.A. Happ",
@@ -5527,7 +5527,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jay Jackson",
@@ -5541,7 +5541,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Wade Davis",
@@ -5555,7 +5555,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Anthony Swarzak",
@@ -5569,7 +5569,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Collin McHugh",
@@ -5583,7 +5583,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jake McGee",
@@ -5597,7 +5597,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tommy Milone",
@@ -5611,7 +5611,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Mike Fiers",
@@ -5625,7 +5625,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Richard Bleier",
@@ -5639,7 +5639,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Hunter Strickland",
@@ -5653,7 +5653,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jerry Blevins",
@@ -5667,7 +5667,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Cory Gearrin",
@@ -5681,7 +5681,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Anthony Bass",
@@ -5695,7 +5695,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Marcus Walden",
@@ -5709,7 +5709,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Will Smith",
@@ -5723,7 +5723,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Bryan Shaw",
@@ -5737,7 +5737,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Buddy Boshers",
@@ -5751,7 +5751,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Justin Verlander",
@@ -5765,7 +5765,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tanner Roark",
@@ -5779,7 +5779,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Wade Miley",
@@ -5793,7 +5793,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kirby Yates",
@@ -5807,7 +5807,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brad Hand",
@@ -5821,7 +5821,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Nathan Eovaldi",
@@ -5835,7 +5835,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jared Hughes",
@@ -5849,7 +5849,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Josh Tomlin",
@@ -5863,7 +5863,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Joe Kelly",
@@ -5877,7 +5877,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sergio Romo",
@@ -5891,7 +5891,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Chaz Roe",
@@ -5905,7 +5905,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brandon Kintzler",
@@ -5919,7 +5919,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kyle Gibson",
@@ -5933,7 +5933,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Aroldis Chapman",
@@ -5947,7 +5947,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Mychal Givens",
@@ -5961,7 +5961,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Shane Greene",
@@ -5975,7 +5975,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Adam Kolarek",
@@ -5989,7 +5989,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Josh A. Smith",
@@ -6003,7 +6003,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Vince Velasquez",
@@ -6017,7 +6017,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Casey Sadler",
@@ -6031,7 +6031,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tommy Kahnle",
@@ -6045,7 +6045,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Drew Pomeranz",
@@ -6059,7 +6059,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brandon Workman",
@@ -6073,7 +6073,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matt Grace",
@@ -6087,7 +6087,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Josh Osich",
@@ -6101,7 +6101,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sam Dyson",
@@ -6115,7 +6115,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Luke Jackson",
@@ -6129,7 +6129,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kyle Ryan",
@@ -6143,7 +6143,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Hansel Robles",
@@ -6157,7 +6157,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "James Paxton",
@@ -6171,7 +6171,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Chris Martin",
@@ -6185,7 +6185,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jason Adam",
@@ -6199,7 +6199,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Michael Feliz",
@@ -6213,7 +6213,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Taylor Cole",
@@ -6227,7 +6227,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Felipe Vazquez",
@@ -6241,7 +6241,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Yimi Garcia",
@@ -6255,7 +6255,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Aaron Brooks",
@@ -6283,7 +6283,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Seth Lugo",
@@ -6297,7 +6297,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Blake Treinen",
@@ -6311,7 +6311,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Nick Ramirez",
@@ -6325,7 +6325,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Rafael Montero",
@@ -6339,7 +6339,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Chris Devenski",
@@ -6353,7 +6353,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jairo Diaz",
@@ -6367,7 +6367,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brad Miller",
@@ -6381,7 +6381,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 1,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "John Brebbsia",
@@ -6395,7 +6395,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sam Gaviglio",
@@ -6409,7 +6409,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matt Wisler",
@@ -6423,7 +6423,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Mike Clevinger",
@@ -6437,7 +6437,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Andrew Kittredge",
@@ -6451,7 +6451,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matt Barnes",
@@ -6465,7 +6465,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Alex Claudio",
@@ -6479,7 +6479,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Ken Giles",
@@ -6493,7 +6493,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Dylan Bundy",
@@ -6507,7 +6507,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Archie Bradley",
@@ -6535,7 +6535,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Andrew Chafin",
@@ -6563,7 +6563,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Derek Law",
@@ -6577,7 +6577,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Eduardo Rodriguez",
@@ -6591,7 +6591,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kyle Crick",
@@ -6605,7 +6605,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Joe Biagini",
@@ -6619,7 +6619,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Luis Cessa",
@@ -6633,7 +6633,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Cam Bedrosian",
@@ -6647,7 +6647,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Felix Pena",
@@ -6661,7 +6661,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Mike Morin",
@@ -6675,7 +6675,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Taylor Rogers",
@@ -6689,7 +6689,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Lucas Sims",
@@ -6703,7 +6703,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sam Tuivailala",
@@ -6717,7 +6717,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Richard Rodriguez",
@@ -6731,7 +6731,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Robert Stephenson",
@@ -6745,7 +6745,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Taylor Guerrieri",
@@ -6759,7 +6759,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "John Gant",
@@ -6773,7 +6773,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Nick Goody",
@@ -6787,7 +6787,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Max Fried",
@@ -6801,7 +6801,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tyler Duffey",
@@ -6815,7 +6815,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Chris Stratton",
@@ -6829,7 +6829,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Roberto Osuna",
@@ -6843,7 +6843,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matt Strahm",
@@ -6857,7 +6857,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Scott Oberg",
@@ -6871,7 +6871,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kyle Zimmer",
@@ -6885,7 +6885,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brian Johnson",
@@ -6899,7 +6899,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Amir Garrett",
@@ -6913,7 +6913,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Adam Conley",
@@ -6927,7 +6927,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jose Leclerc",
@@ -6941,7 +6941,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jorge Lopez",
@@ -6955,7 +6955,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Carlos Estevez",
@@ -6969,7 +6969,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Rowan Wick",
@@ -6983,7 +6983,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jandel Gustave",
@@ -6997,7 +6997,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Edwin Diaz",
@@ -7011,7 +7011,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Ty Buttrey",
@@ -7025,7 +7025,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Emilio Pagan",
@@ -7039,7 +7039,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Buck Farmer",
@@ -7053,7 +7053,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Michael Lorenzen",
@@ -7067,7 +7067,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Caleb Smith",
@@ -7081,7 +7081,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Reyes Moronta",
@@ -7095,7 +7095,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tyler Webbs",
@@ -7109,7 +7109,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Giovanny Gallegos",
@@ -7123,7 +7123,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Scott Barlow",
@@ -7137,7 +7137,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tim Mayza",
@@ -7151,7 +7151,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Trevor Gott",
@@ -7165,7 +7165,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Glenn Sparkman",
@@ -7179,7 +7179,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kevin McCarthy",
@@ -7193,7 +7193,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jacob Rhame",
@@ -7221,7 +7221,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Matthew Boyd",
@@ -7235,7 +7235,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Marco Gonzales",
@@ -7249,7 +7249,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Chad Green",
@@ -7263,7 +7263,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Nick Wittgren",
@@ -7277,7 +7277,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jimmy Cordero",
@@ -7291,7 +7291,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brad Keller",
@@ -7305,7 +7305,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Paul Fry",
@@ -7319,7 +7319,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Adam Plutko",
@@ -7333,7 +7333,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Wander Suero",
@@ -7347,7 +7347,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Lewis Thorpe",
@@ -7361,7 +7361,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jace Fry",
@@ -7375,7 +7375,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Aaron Bummer",
@@ -7389,7 +7389,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tim Hill",
@@ -7403,7 +7403,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Elieser Hernandez",
@@ -7417,7 +7417,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sean Newcomb",
@@ -7431,7 +7431,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Domingo German",
@@ -7445,7 +7445,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Yoan Lopez",
@@ -7459,7 +7459,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jalen Beeks",
@@ -7473,7 +7473,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Sam Coonrod",
@@ -7487,7 +7487,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Ranger Suarez",
@@ -7501,7 +7501,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Josh Taylor",
@@ -7515,7 +7515,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Brett Martin",
@@ -7529,7 +7529,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Diego Castillo",
@@ -7543,7 +7543,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Tanner Rainey",
@@ -7557,7 +7557,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Trey Wingenter",
@@ -7571,7 +7571,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Dillon Tate",
@@ -7585,7 +7585,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Nestor Cortes",
@@ -7599,7 +7599,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Cody Stashak",
@@ -7613,7 +7613,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jarlin Garcia",
@@ -7627,7 +7627,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Nick Anderson",
@@ -7641,7 +7641,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jaime Barria",
@@ -7655,7 +7655,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Dillon Peters",
@@ -7669,7 +7669,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Kyle Keller",
@@ -7683,7 +7683,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Jose Quijada",
@@ -7697,7 +7697,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Dakota Hudson",
@@ -7711,7 +7711,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Reggie McClain",
@@ -7725,7 +7725,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Colin Poche",
@@ -7739,7 +7739,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Shane Bieber",
@@ -7753,7 +7753,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Gregory Soto",
@@ -7767,7 +7767,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Darwinzon Hernandez",
@@ -7781,7 +7781,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Michel Baez",
@@ -7795,7 +7795,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Andres Munoz",
@@ -7809,7 +7809,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Yusei Kikuchi",
@@ -7823,7 +7823,7 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  },
  {
    "Name": "Emmanuel Clase",
@@ -7837,6 +7837,6 @@
    "RBIs": 0,
    "Ks": 0,
    "BBs": 0,
-   "Batting Avg": 0
+   "Batting Avg": 0.000
  }
 ]
