@@ -123,8 +123,8 @@ $('.calculate').click(function() {
   	return false; 
 	}
 
-	let baseballPlayers; = baseball.filter(filterByAtBats);
-	let rand; = getRand(0, baseballPlayers.length);
+	let baseballPlayers = baseball.filter(filterByAtBats);
+	let rand = getRand(0, baseballPlayers.length);
 
 	function filterByChosen(item) {
 		if (item[chosenStat] == chosenObj[chosenStat]) {
