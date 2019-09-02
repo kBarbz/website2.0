@@ -153,7 +153,7 @@ $('.calculate').click(function() {
 	console.log(checked)
 
 	if (checked) {
-		baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[westyRand]["Name"] + '</span>also had</p></div><div class="d-flex justify-content-center"><span id="number">' + westyPlayer[rand][chosenStat] + '</span></div></div>'
+		baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + westyPlayers[westyRand]["Name"] + '</span>also had</p></div><div class="d-flex justify-content-center"><span id="number">' + westyPlayer[rand][chosenStat] + '</span></div></div>'
 	} 
 
 	$('#baseballFact').append(baseballFact);
