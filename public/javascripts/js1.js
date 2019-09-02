@@ -123,11 +123,24 @@ $('.calculate').click(function() {
   	return false; 
 	}
 
-	let baseballPlayers = baseball.filter(filterByAtBats);
-	let rand = getRand(0, baseballPlayers.length);
+	let baseballPlayers; = baseball.filter(filterByAtBats);
+	let rand; = getRand(0, baseballPlayers.length);
 
-console.log(baseballPlayers[rand])
-	let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[rand]["Name"] + '</span> had</p></div><div class="d-flex justify-content-center"><span id="number">' + baseballPlayers[rand][chosenStat] + '</span></div></div>'
+	function filterByChosen(item) {
+		if (item[chosenStat] == chosenObj[chosenStat]) {
+			return true;
+		}
+		return false;
+	}
+
+	let westyPlayer = baseball.filter(filterByChosen);
+	let westyRand = getRand(0, westyPlayer.length);
+
+	if ($('input[type=checkbox]').prop('checked')) {
+		let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[westyRand]["Name"] + '</span>also had</p></div><div class="d-flex justify-content-center"><span id="number">' + westyPlayer[rand][chosenStat] + '</span></div></div>'
+	} else {
+		let baseballFact = '<div class="baseballFact"><div class="d-flex justify-content-center"><p>In the same weekend, <span id="bold">' + baseballPlayers[rand]["Name"] + '</span> had</p></div><div class="d-flex justify-content-center"><span id="number">' + baseballPlayers[rand][chosenStat] + '</span></div></div>'
+	}
 	$('#baseballFact').append(baseballFact);
 	$('#restart-button').append($restartButton);
 
