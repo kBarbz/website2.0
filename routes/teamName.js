@@ -18,7 +18,7 @@ const fs = require('fs');
 }
 
 let bedford;
-jsonReader('./bedfordJSON.json', (err, team) => {
+jsonReader('./public/images/bedfordJSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -27,7 +27,7 @@ jsonReader('./bedfordJSON.json', (err, team) => {
 })
 
 let bm1;
-jsonReader('./bayswater1JSON.json', (err, team) => {
+jsonReader('./public/images/bayswater1JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -36,7 +36,7 @@ jsonReader('./bayswater1JSON.json', (err, team) => {
 })
 
 let bm2;
-jsonReader('./bayswater2JSON.json', (err, team) => {
+jsonReader('./public/images/bayswater2JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -45,7 +45,7 @@ jsonReader('./bayswater2JSON.json', (err, team) => {
 })
 
 let bm3;
-jsonReader('./bayswater3JSON.json', (err, team) => {
+jsonReader('./public/images/bayswater3JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -54,7 +54,7 @@ jsonReader('./bayswater3JSON.json', (err, team) => {
 })
 
 let f1;
-jsonReader('./fremantle1JSON.json', (err, team) => {
+jsonReader('./public/images/fremantle1JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -63,7 +63,7 @@ jsonReader('./fremantle1JSON.json', (err, team) => {
 })
 
 let f2;
-jsonReader('./fremantle2JSON.json', (err, team) => {
+jsonReader('./public/images/fremantle2JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return

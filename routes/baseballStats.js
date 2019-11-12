@@ -19,7 +19,7 @@ const fs = require('fs');
 
 let baseball;
 router.get('/', function(req, res, next) {
-jsonReader('./baseballJSON.json', (err, data ) => {
+jsonReader('./public/images/baseballJSON.json', (err, data ) => {
     if (err) {
         console.log(err)
         return
