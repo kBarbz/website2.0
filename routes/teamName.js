@@ -18,7 +18,7 @@ const fs = require('fs');
 }
 
 let bedford;
-jsonReader('D:/home/site/wwwroot/public/images/bedfordJSON.json', (err, team) => {
+jsonReader('./bedfordJSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -27,7 +27,7 @@ jsonReader('D:/home/site/wwwroot/public/images/bedfordJSON.json', (err, team) =>
 })
 
 let bm1;
-jsonReader('D:/home/site/wwwroot/public/images/bayswater1JSON.json', (err, team) => {
+jsonReader('./bayswater1JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -36,7 +36,7 @@ jsonReader('D:/home/site/wwwroot/public/images/bayswater1JSON.json', (err, team)
 })
 
 let bm2;
-jsonReader('D:/home/site/wwwroot/public/images/bayswater2JSON.json', (err, team) => {
+jsonReader('./bayswater2JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -45,7 +45,7 @@ jsonReader('D:/home/site/wwwroot/public/images/bayswater2JSON.json', (err, team)
 })
 
 let bm3;
-jsonReader('D:/home/site/wwwroot/public/images/bayswater3JSON.json', (err, team) => {
+jsonReader('./bayswater3JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -54,7 +54,7 @@ jsonReader('D:/home/site/wwwroot/public/images/bayswater3JSON.json', (err, team)
 })
 
 let f1;
-jsonReader('D:/home/site/wwwroot/public/images/fremantle1JSON.json', (err, team) => {
+jsonReader('./fremantle1JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -63,7 +63,7 @@ jsonReader('D:/home/site/wwwroot/public/images/fremantle1JSON.json', (err, team)
 })
 
 let f2;
-jsonReader('D:/home/site/wwwroot/public/images/fremantle2JSON.json', (err, team) => {
+jsonReader('./fremantle2JSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
@@ -71,7 +71,7 @@ jsonReader('D:/home/site/wwwroot/public/images/fremantle2JSON.json', (err, team)
     f2 = team;
 })
 let gero;
-jsonReader('D:/home/site/wwwroot/public/images/geraldtonJSON.json', (err, team) => {
+jsonReader('./public/images/geraldtonJSON.json', (err, team) => {
     if (err) {
         console.log(err)
         return
